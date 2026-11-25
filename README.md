@@ -14,7 +14,7 @@
 > — Sushil Kumar
 >
 
-[![Become a Sponsor ❤️](https://raw.githubusercontent.com/CodeWithSushil/codewithsushil.github.io/refs/heads/v4/assets/images/a_clean_high_resolution_graphic_design_badge_over.png)](https://github.com/sponsors/CodeWithSushil)
+[![Become a Sponsor ❤️](https://raw.githubusercontent.com/CodeWithSushil/codewithsushil.github.io/refs/heads/v4/assets/images/spsr.png)](https://github.com/sponsors/CodeWithSushil)
 
 
 <!--
